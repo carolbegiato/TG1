@@ -24,6 +24,7 @@ Na plataforma teria uma página de catálogo e de pesquisa. Além de carrinho, p
 - Embalagem / forma de encaminhamento. 
 
 ![image](https://github.com/carolbegiato/TG1/assets/163134994/1d288b5a-48be-495c-8dbb-7fcbe4d685b2)
+
 -Usuário registra-se no sistema 
 -Usuário efetua o login no sistema 
 -Usuário olha e escolhe o livro desejado
