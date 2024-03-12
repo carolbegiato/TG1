@@ -25,14 +25,14 @@ Na plataforma teria uma página de catálogo e de pesquisa. Além de carrinho, p
 
 ![image](https://github.com/carolbegiato/TG1/assets/163134994/1d288b5a-48be-495c-8dbb-7fcbe4d685b2)
 
--Usuário registra-se no sistema 
--Usuário efetua o login no sistema 
--Usuário olha e escolhe o livro desejado
--Equipe verifica o estado do livro escolhido 
--Usuário efetua o pagamento 
--Equipe embala o livro e leva a área de entrega 
--Entregador leva o produto até o correio
--Equipe analisa o estado do livro que o usuário escolheu e se o produto estiver em bom estado é embalado e levado a área de entrega
+-Usuário registra-se no sistema; 
+-Usuário efetua o login no sistema; 
+-Usuário olha e escolhe o livro desejado;
+-Equipe verifica o estado do livro escolhido; 
+-Usuário efetua o pagamento; 
+-Equipe embala o livro e leva a área de entrega; 
+-Entregador leva o produto até o correio;
+-Equipe analisa o estado do livro que o usuário escolheu e se o produto estiver em bom estado é embalado e levado a área de entrega;
 Usuário:
 Registra-se e efetua o login no sistema  
 Observa o catálogo e escolhe o livro
