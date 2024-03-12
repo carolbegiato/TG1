@@ -21,19 +21,12 @@ Na plataforma teria uma página de catálogo e de pesquisa. Além de carrinho, p
 - Escrita ou Tradução corretas; 
 - Encaminhamento; 
 - Tempo de processamento; 
-- Embalagem / forma de encaminhamento. 
+- Embalagem / forma de encaminhamento.
 
-![image](https://github.com/carolbegiato/TG1/assets/163134994/1d288b5a-48be-495c-8dbb-7fcbe4d685b2)
 
--Usuário registra-se no sistema; 
--Usuário efetua o login no sistema; 
--Usuário olha e escolhe o livro desejado;
--Equipe verifica o estado do livro escolhido; 
--Usuário efetua o pagamento; 
--Equipe embala o livro e leva a área de entrega; 
--Entregador leva o produto até o correio;
--Equipe analisa o estado do livro que o usuário escolheu e se o produto estiver em bom estado é embalado e levado a área de entrega;
-Usuário:
+Modelos de caso de uso:
+1.	Identificar casos de uso de negócio por ator (cumpri metas do usuário).
+- Usuário:
 Registra-se e efetua o login no sistema  
 Observa o catálogo e escolhe o livro
 Efetua o pagamento
@@ -44,3 +37,21 @@ Embala e leva-o para a área de entrega
 
 Entregador: 
 Leva o pedido ao correio para entregar ao cliente
+
+2.	Descrever os casos de uso de forma resumida.
+-Usuário registra-se no sistema; 
+-Usuário efetua o login no sistema; 
+-Usuário olha e escolhe o livro desejado;
+-Equipe verifica o estado do livro escolhido; 
+-Usuário efetua o pagamento; 
+-Equipe embala o livro e leva a área de entrega; 
+-Entregador leva o produto até o correio.
+
+3.	Descrever 1 caso de uso crítico/mais importante do sistema de forma completa
+-Equipe analisa o estado do livro que o usuário escolheu e se o produto estiver em bom estado é embalado e levado a área de entrega
+
+4.	Desenvolver um diagrama de caso de uso UML para facilitar a visualização dos casos de uso listados no item 1.
+
+![image](https://github.com/carolbegiato/TG1/assets/163134994/1d288b5a-48be-495c-8dbb-7fcbe4d685b2)
+
+
